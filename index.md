@@ -22,7 +22,7 @@ I keep track of upcoming trips, itineraries, and reflections.
 ## 📈 Investments
 Notes on portfolio strategy, research, and long-term thinking.
 
-➡️ [Go to Investment Notes →](./investments.md)
+➡️ [Go to Investment Notes →](./investment.md)
 
 ---
 
