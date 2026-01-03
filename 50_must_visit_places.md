@@ -1,4 +1,4 @@
-# 🌍 50 Must-Visit Places Before You Die
+# 🌍 50 Must-Visit Places Before I Die
 _Ranked by Difficulty · Cost · Breathtaking Experience_
 
 ---
@@ -6,7 +6,7 @@ _Ranked by Difficulty · Cost · Breathtaking Experience_
 
 | Rank | Done | Name | Geography | Type |
 |-----:|:----:|------|----------|------|
-| 1 | [ ] | [Antarctica](#antarctica) | Polar | Polar / Expedition |
+| 1 | [x] | [Antarctica](#antarctica) | Polar | Polar / Expedition |
 | 2 | [ ] | [Everest Base Camp Trek](#everest-base-camp-trek) | Nepal | Trek |
 | 3 | [ ] | [Amazon Rainforest](#amazon-rainforest) | South America | Nature / Wildlife |
 | 4 | [ ] | [Galápagos Islands](#galápagos-islands) | Ecuador | Wildlife |
@@ -26,12 +26,12 @@ _Ranked by Difficulty · Cost · Breathtaking Experience_
 | 18 | [ ] | [Borobudur](#borobudur) | Indonesia | Culture |
 | 19 | [ ] | [Los Glaciares National Park](#los-glaciares-national-park) | Argentina | Nature |
 | 20 | [ ] | [Wadi Rum](#wadi-rum) | Jordan | Desert |
-| 21 | [ ] | [Rome (Historic Centre)](#rome-historic-centre) | Italy | Culture |
-| 22 | [ ] | [Pompeii & Herculaneum](#pompeii-&-herculaneum) | Italy | Culture |
+| 21 | [x] | [Rome (Historic Centre)](#rome-historic-centre) | Italy | Culture |
+| 22 | [x] | [Pompeii & Herculaneum](#pompeii-&-herculaneum) | Italy | Culture |
 | 23 | [ ] | [Alhambra](#alhambra) | Spain | Culture |
-| 24 | [ ] | [Acropolis of Athens](#acropolis-of-athens) | Greece | Culture |
+| 24 | [x] | [Acropolis of Athens](#acropolis-of-athens) | Greece | Culture |
 | 25 | [ ] | [Ha Long Bay](#ha-long-bay) | Vietnam | Nature |
-| 26 | [ ] | [Meteora](#meteora) | Greece | Culture |
+| 26 | [x] | [Meteora](#meteora) | Greece | Culture |
 | 27 | [ ] | [Plitvice Lakes National Park](#plitvice-lakes-national-park) | Croatia | Nature |
 | 28 | [ ] | [Old City of Dubrovnik](#old-city-of-dubrovnik) | Croatia | Culture |
 | 29 | [ ] | [Mont-Saint-Michel](#mont-saint-michel) | France | Culture |
@@ -46,14 +46,14 @@ _Ranked by Difficulty · Cost · Breathtaking Experience_
 | 38 | [ ] | [Cartagena (Walled City)](#cartagena-walled-city) | Colombia | Culture |
 | 39 | [ ] | [Göbekli Tepe](#göbekli-tepe) | Türkiye | Culture |
 | 40 | [ ] | [Persepolis](#persepolis) | Iran | Culture |
-| 41 | [ ] | [Historic Areas of Istanbul](#historic-areas-of-istanbul) | Türkiye | Culture |
+| 41 | [x] | [Historic Areas of Istanbul](#historic-areas-of-istanbul) | Türkiye | Culture |
 | 42 | [ ] | [Robben Island](#robben-island) | South Africa | History |
 | 43 | [ ] | [Lalibela](#lalibela) | Ethiopia | Culture |
 | 44 | [ ] | [Timbuktu](#timbuktu) | Mali | Culture |
 | 45 | [ ] | [Venice and its Lagoon](#venice-and-its-lagoon) | Italy | Culture |
 | 46 | [ ] | [Amalfi Coast](#amalfi-coast) | Italy | Coastal |
 | 47 | [ ] | [Himeji Castle](#himeji-castle) | Japan | Culture |
-| 48 | [ ] | [Kyoto](#kyoto) | Japan | Culture |
+| 48 | [x] | [Kyoto](#kyoto) | Japan | Culture |
 | 49 | [ ] | [Sigiriya](#sigiriya) | Sri Lanka | Culture |
 | 50 | [ ] | [Great Migration (Serengeti Focus)](#great-migration-serengeti-focus) | Tanzania / Kenya | Wildlife |
 
