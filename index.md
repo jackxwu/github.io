@@ -7,6 +7,7 @@ title: Jack Wu
 Welcome 👋  
 This site is a personal knowledge base where I keep notes on:
 
+- [My bucket list →](./50_must_visit_places.md) 
 - 🌍 **Travel planning & trip logs**
 - 📈 **Investment research & portfolio notes**
 
